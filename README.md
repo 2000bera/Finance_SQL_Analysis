@@ -35,9 +35,14 @@
 
 * The analysis shows that customer segments have different purchasing behaviors. The Occasional segment contributes the highest total revenue, while Premium and Regular customers contribute less overall
 
+<img width="887" height="597" alt="image" src="https://github.com/user-attachments/assets/26873a7c-fa23-4710-8de8-e7c6dd706e6a" />
+
+
 ## Product Categories
 
 * Electronics, Sports, and Toys are among the strongest-performing product categories based on the sales analysis. These categories may attract customers because they cover technology, recreation, fitness, and entertainment needs.
+
+<img width="885" height="596" alt="image" src="https://github.com/user-attachments/assets/8ef32177-b5cc-4cca-8539-75470b958eac" />
 
 
 # 5. financial dashboard report
