@@ -1,6 +1,7 @@
 # Finance_SQL_Analysis
 
-* Do analysis on finance/ecommorce data using SQL
+* Do analysis on finance/ecommorce data using SQL on the Snowflake
+* The table contains records of sales data, specifically product sales. Each record represents a single sale and includes details about the product category, customer segment
 
 # Table Content
 
@@ -33,6 +34,7 @@
 <img width="871" height="83" alt="image" src="https://github.com/user-attachments/assets/f696676e-de3f-49ea-bbd1-2e0f6dd89aa0" />
 
 # 5. financial dashboard report
+
 
 
 # 6. Recommendation
