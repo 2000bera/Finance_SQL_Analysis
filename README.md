@@ -27,14 +27,23 @@
 
 # 3. Solve Statement
 
-* 
+* The goal of this analysis is to understand customer purchasing behavior, identify the most valuable customer segments, determine which product categories generate the most sales and revenue, and provide recommendations to increase customer spending and overall revenue.
 
 # 4. Analyze Insights
 
-<img width="871" height="83" alt="image" src="https://github.com/user-attachments/assets/f696676e-de3f-49ea-bbd1-2e0f6dd89aa0" />
+## Customer Segment
+
+* The analysis shows that customer segments have different purchasing behaviors. The Occasional segment contributes the highest total revenue, while Premium and Regular customers contribute less overall
+
+## Product Categories
+
+* Electronics, Sports, and Toys are among the strongest-performing product categories based on the sales analysis. These categories may attract customers because they cover technology, recreation, fitness, and entertainment needs.
+
 
 # 5. financial dashboard report
 
 
 
 # 6. Recommendation
+
+* The business should give customers special offers, discounts, and rewards to encourage them to buy more often. Occasional customers should be encouraged to come back and buy again, while Premium and Regular customers can receive special deals to increase their spending.
