@@ -22,7 +22,7 @@
 # 2. Tools Used
 
 * SQL
-* GitHub
+* GitHub (Git)
 * Snowflake (data warehouse/cloud)
 
 # 3. Solve Statement
