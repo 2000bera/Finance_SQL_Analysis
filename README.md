@@ -22,7 +22,7 @@
 
 * SQL
 * GitHub
-* Snowflake (data warehouse)
+* Snowflake (data warehouse/cloud)
 
 # 3. Solve Statement
 
