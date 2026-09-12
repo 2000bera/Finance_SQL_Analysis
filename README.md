@@ -7,7 +7,6 @@
 * Data Review
 * Tools Used
 * Solve Statement
-* Data Cleaning Process
 * Analyze Insights
 * Dashboard/Report
 * Recommendation
@@ -29,18 +28,11 @@
 
 * 
 
-# 4. Data Cleaning Process
-
-* 
-  
-### Steps for connection
-
-
-# 5. Analyze Insights
+# 4. Analyze Insights
 
 <img width="871" height="83" alt="image" src="https://github.com/user-attachments/assets/f696676e-de3f-49ea-bbd1-2e0f6dd89aa0" />
 
-# 6. financial dashboard report
+# 5. financial dashboard report
 
 
-# 7. Recommendation
+# 6. Recommendation
