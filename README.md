@@ -24,6 +24,7 @@
 * SQL
 * GitHub (Git)
 * Snowflake (data warehouse/cloud)
+* Tableau
 
 # 3. Solve Statement
 
