@@ -1,6 +1,7 @@
 # Finance_SQL_Analysis
 
 * Do analysis on finance/ecommorce data using SQL on the Snowflake
+* Connected server databricks to tableau for data extraction to perform data visualization
 * The table contains records of sales data, specifically product sales. Each record represents a single sale and includes details about the product category, customer segment
 
 # Table Content
@@ -24,7 +25,8 @@
 * SQL
 * GitHub (Git)
 * Snowflake (data warehouse/cloud)
-* Tableau
+* Tableau (data visualization)
+* Databrick (data extraction)
 
 # 3. Solve Statement
 
