@@ -47,6 +47,9 @@
 
 <img width="885" height="596" alt="image" src="https://github.com/user-attachments/assets/8ef32177-b5cc-4cca-8539-75470b958eac" />
 
+## My Workspace
+
+<img width="1359" height="696" alt="image" src="https://github.com/user-attachments/assets/003cb6a4-5702-4c4d-8d79-d00a2edf03f7" />
 
 # 5. financial dashboard report
 
