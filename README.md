@@ -25,9 +25,9 @@
 
 * SQL
 * GitHub (Git)
-* Snowflake (data warehouse/cloud)
+* Snowflake (data warehouse/cloud for SQL queries)
 * Tableau (data visualization)
-* Databrick (data extraction)
+* Databrick (data extraction for creating data visualization on tableau)
 
 # 3. Solve Statement
 
