@@ -54,7 +54,7 @@
 
 # 5. financial dashboard report
 
-
+<img width="1004" height="603" alt="image" src="https://github.com/user-attachments/assets/bb8849a9-aa70-424a-b90d-2376fde9b450" />
 
 # 6. Recommendation
 
